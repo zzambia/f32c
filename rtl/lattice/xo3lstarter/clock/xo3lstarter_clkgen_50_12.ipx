@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DiamondModule name="xo3lstarter_clkgen_50_12" module="xo3lstarter_clkgen_50_12" VendorName="Lattice Semiconductor Corporation" generator="IPexpress" date="2017 03 20 11:11:05.245" version="5.8" type="Module" synthesis="synplify" source_format="VHDL">
+  <Package>
+		<File name="xo3lstarter_clkgen_50_12.lpc" type="lpc" modified="2017 03 20 11:11:04.316"/>
+		<File name="xo3lstarter_clkgen_50_12.vhd" type="top_level_vhdl" modified="2017 03 20 11:11:04.359"/>
+		<File name="xo3lstarter_clkgen_50_12_tmpl.vhd" type="template_vhdl" modified="2017 03 20 11:11:04.361"/>
+  </Package>
+</DiamondModule>
